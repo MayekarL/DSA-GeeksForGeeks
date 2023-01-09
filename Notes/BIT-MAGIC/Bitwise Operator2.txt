@@ -1,0 +1,20 @@
+Lets assume X = 3 -> 11
+4. Left Shift ('<<')
+ - Will add the number of zeros at the end 
+   If the number is 2 we have to add 2 zeros at the end
+	x << 2      -> 1100
+	
+Lets assume X = 12 -> 1100
+5. Right Shift ('>>')
+ - Will add the number of zeros at the Start 
+   If the number is 2 we have to remove 2 numbers from the end
+	x << 2      -> 	11 
+	Output 		->   3 
+
+6. Bitwise Not : ('~') Unsigned 
+  It will reverse if there is 0 it will make 1 
+  Number   Output 
+  0  		1
+  1         0 
+
+   
